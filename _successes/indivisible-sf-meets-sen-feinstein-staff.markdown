@@ -1,7 +1,7 @@
 ---
-title: Indivisible SF Meets Sen. Feinstein Staff!
+title: Veterans Want Their Country Back
 date: 2017-02-08 02:32:00 Z
-main-image: "/uploads/16473226_255006311620718_3429484230138453138_n.jpg"
+main-image: "/uploads/16265323_10211970765243553_5636905733827310639_n-7874ea.jpg"
 layout: media-item
 ---
 
