@@ -57,14 +57,15 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Inclusive • Non-partisan • Defending Civil Rights • Opposing Policies that
-  Suppress Civil Liberties • Holding Government Officials Accountable for Their Actions
+subtitle: Inclusive • Non-partisan •  • Defending Civil Rights •  • Opposing Policies
+  that Suppress Civil Liberties •  • Holding Government Officials Accountable for
+  Their Actions
 email: citizensforhopecs@gmail.com
 baseurl: 
 url: citizensforhopecs.com
 twitter_username: "@citizens4hope"
 facebook_username: Citizens for Hope - Colorado Springs
-background-image: "/uploads/CfH%20Website%20Masthead.jpg"
+background-image: "/uploads/CfH%20Website%20Masthead_B.jpg"
 member-count: 350
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
