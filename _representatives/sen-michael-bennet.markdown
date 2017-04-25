@@ -6,6 +6,6 @@ phone-numbers:
   Pikes Peak Office: "(719) 328-1100"
   DC Office: "(202) 224-5852"
   Key: 
-website: https://www.harris.senate.gov/
+website: https://www.bennet.senate.gov/
 ---
 
