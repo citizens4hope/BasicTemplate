@@ -1,5 +1,5 @@
 ---
-title: Indivisible City
+title: Citizens for Hope CS
 timezone: UTC
 collections:
   posts:
@@ -57,15 +57,17 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: Citizens for Hope C.S. is an inclusive, non-partisan organization whose
+  mission is to defend civil rights, to actively oppose government policies that suppress
+  fundamental civil liberties, and to hold government officials accountable for their
+  actions.
+email: citizensforhopecs@gmail.com
 baseurl: 
-url: 
-twitter_username: 
-facebook_username: 
-background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+url: citizensforhopecs.com
+twitter_username: "@citizens4hope"
+facebook_username: Citizens for Hope - Colorado Springs
+background-image: "/uploads/2.25%20Button_15%25.jpg"
+member-count: 350
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
