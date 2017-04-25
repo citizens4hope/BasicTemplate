@@ -57,16 +57,14 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Citizens for Hope CS is an inclusive, non-partisan organization whose mission
-  is to defend civil rights, to actively oppose government policies that suppress
-  fundamental civil liberties, and to hold government officials accountable for their
-  actions.
+subtitle: Inclusive • Non-Partisan • Defending Civil Rights • Opposing Policies that
+  Suppress Civil Liberty • Holding Government Officials Accountable for Their Actions
 email: citizensforhopecs@gmail.com
 baseurl: 
 url: citizensforhopecs.com
 twitter_username: "@citizens4hope"
 facebook_username: Citizens for Hope - Colorado Springs
-background-image: "/uploads/CoH%20Facebook%20Masthead%20LR-f84a73.jpg"
+background-image: "/uploads/CfH%20Website%20Masthead_B.jpg"
 member-count: 350
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
