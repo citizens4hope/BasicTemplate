@@ -57,7 +57,10 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: 
+subtitle: Citizens for Hope CS is an inclusive, non-partisan organization whose mission
+  is to defend civil rights, to actively oppose government policies that suppress
+  fundamental civil liberties, and to hold government officials accountable for their
+  actions.
 email: citizensforhopecs@gmail.com
 baseurl: 
 url: citizensforhopecs.com
