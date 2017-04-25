@@ -57,11 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle:
-- "• Inclusive • Non-Partisan"
-- "• Defending Civil Rights"
-- "• Opposing Policies that Suppress Civil Liberties"
-- "• Holding Government Officials Accountable for Their Actions"
+subtitle: 
 email: citizensforhopecs@gmail.com
 baseurl: 
 url: citizensforhopecs.com
