@@ -6,6 +6,7 @@ phone-numbers:
   CS Office: "(719) 632-6706"
   DC Office: "(202) 224-5941"
   Key: 
+website: https://www.gardner.senate.gov/
 ---
 
 Junior Republican Senator from Colorado. He was previously the U.S. Representative for Colorado's 4th congressional district.
